@@ -13,6 +13,7 @@ class human
     //metody
     void add(); //pobranie danych
     void read(); //wypisanie danych
+
 };
 
 
