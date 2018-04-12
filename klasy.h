@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
@@ -12,6 +13,7 @@ class human
     //metody
     void add(); //pobranie danych
     void read(); //wypisanie danych
+
 };
 
 
