@@ -15,7 +15,7 @@ void human::add()
 
 void human::read()
 {
-    cout << endl << "Nice to meet You, " << name << " \"" << nick << "\" " << lastName << endl;
+    cout << endl << "Nice to meet You, " << name << " " << lastName << " \"" << nick << "\"" << endl;
 }
 
 
